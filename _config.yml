@@ -1,1 +1,12 @@
-theme: jekyll-theme-architect
+# Setup
+name:         m89
+tagline:      dev & DIYer
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
