@@ -104,23 +104,28 @@ these laptops:
 This was an unexpected find, since it's a relatively newer model and there aren't so many reviews on the web.
 It apparently exists in 2 variants: laptop and 2in1. I went straight for the laptop model since for my job it's completely 
 useless to have a touch screen and I suspect the screen would be more wobbly (it's very annoying while travelling)
+
 Main PROs:
 * Good build quality
 * 1920x1200 IPS Display (16:10 yay!)
-* 2x Thunderbolt + 1x USB 3.2 + HDMI
+* 2x Thunderbolt 4 + 1x USB-A 3.2 + HDMI
 * Latest gen (11th) Intel i7 CPU
 * 32Gb RAM (although soldered :( )
-+ Integrated Intel IRIS graphics
-+ Readly available but with non-us-layout
+* Integrated Intel IRIS graphics
+* Readily Available
+Drawbacks:
+* Non US (Italian) layout
 
 #### MSI Prestige 14
 This was a lucky find from a local shop, with the lowest price of the group but still with:
 * Stylish appearance (although made of plastic with some aluminium inserts)
 * Very light (1.25 kg)
-* 2x Thunderbolt 4 + 1x USB 2.0 (yes, it's not a mistake...USB2.0)
+* 2x Thunderbolt 4
 * Good FullHD Display (later I discovered it's a very low power model, 1.2W MAX which should help with battery life)
-* Readly available (although non-us-layout)
+* Readily Available 
+* Unconventional keyboard layout, basically ANSI with accented characters (see pic)
 * Integrated Intel IRIS graphics
 
-But with some drawbacks:
+Drawbacks:
 * 16GB soldered RAM
+* 1x USB-A 2.0 (yes, it's not a mistake...USB2.0 and it's the only USB-A available) 
